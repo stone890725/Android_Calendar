@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinalExam</string>
+    <string name="date">%4d-%2d-%2d</string>
+    <string name="time">%02d:%02d</string>
+    <string-array name="planets_array">
+        <item>以鬧鐘方式</item>
+        <item>以通知方式</item>
+        <item>以鬧鐘與通知</item>
+        <item>震動</item>
+    </string-array>
+    <string name="title">標題:</string>
+    <string name="content">內容:</string>
+    <string name="tv_date">日期:</string>
+    <string name="tv_time">時間:</string>
+    <string name="pleaseTypeTitle">請輸入標題</string>
+    <string name="pleaseTypeContent">請輸入內容</string>
+    <string name="submit">送出</string>
+    <string name="cancel">取消</string>
+</resources>
+
